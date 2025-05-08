@@ -1,0 +1,1 @@
+you will learn how to build a countdown timer using the time Python module. This is a great beginner project to get you used to working with while loops in Python.
