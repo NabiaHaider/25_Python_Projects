@@ -1,5 +1,0 @@
-streamlit
-qrcode
-pillow
-opencv-python
-numpy
