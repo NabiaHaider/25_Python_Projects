@@ -1,0 +1,1 @@
+QR code encoder / decoder Python Project
